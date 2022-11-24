@@ -1,0 +1,16 @@
+{
+  "header": {
+    "name": "Adidas Tracksuit Skin Pack",
+    "description": "The Ultimate Swag Pack",
+    "uuid": "e4ecd478-4735-4c0d-881c-a5f030550571",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "3ba0d497-b764-4e7e-b87c-3ececdbe76cd",
+      "version": [1, 0, 0]
+    }
+  ],
+  "format_version": 1
+}

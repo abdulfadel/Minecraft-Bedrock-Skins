@@ -1,0 +1,43 @@
+{
+  "geometry": "skinpacks/skins.json",
+  "skins": [
+    {
+      "localization_name": "skin1",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Red Adidas Tracksuit.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin2",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Yellow Adidas Tracksuit.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin3",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Blue Adidas Tracksuit.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin4",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Green Adidas Tracksuit.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin5",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Orange Adidas Tracksuit.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "skin6",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Black Adidas Tracksuit.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "e4ecd478-4735-4c0d-881c-a5f030550571",
+  "localization_name": "Adidas Tracksuit Skin Pack"
+}
